@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Business Card app</string>
+    <string name="fullname">Payal Vaghasiya</string>
+    <string name="title">Android Developer Extraordinaire</string>
+    <string name="phone_num">+91 11122 23334</string>
+    <string name="social_share">\@AndroidDev</string>
+    <string name="email">Android@gmail.com</string>
+</resources>
